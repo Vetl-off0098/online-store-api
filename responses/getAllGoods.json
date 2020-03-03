@@ -1,0 +1,128 @@
+[
+    {
+      "userId": 2,
+      "id": 1,
+      "goods": [
+        {
+            "product_name": "Монопод Xiaomi Mi Selfie Stick Tripod Белый",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        },
+        {
+            "product_name": "Электробритва Xiaomi Mijia Rotary Electric",
+            "price": 2600,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "goods": [
+        {
+            "product_name": "Фильтр Xiaomi Mi Robot Vacuum Cleaner Filter",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "goods": [
+        {
+            "product_name": "Боковая щетка Xiaomi Mi Robot Cleaner Filter",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "goods": [
+        {
+            "product_name": "Сменная насадка для Xiaomi Soocas X3 Черная",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "goods": [
+        {
+            "product_name": "Сменная насадка для Xiaomi Soocas X3 Белая",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "goods": [
+        {
+            "product_name": "Электробритва Xiaomi Mijia Portable Electric",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "goods": [
+        {
+            "product_name": "Умный чайник Xiaomi Smart Kettle Bluetooth",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "goods": [
+        {
+            "product_name": "Робот-пылесос Xiaomi Mi Robot Vacuum Cleaner",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "goods": [
+        {
+            "product_name": "Термометр-гигрометр Xiaomi Mi Temperature",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "goods": [
+        {
+            "product_name": "Ручной Беспроводной Пылесос Xiaomi Roidmi",
+            "price": 1490,
+            "link": "item.html",
+            "quantity": 1
+        }
+      ]
+    }
+]
